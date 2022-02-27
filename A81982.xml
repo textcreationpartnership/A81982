@@ -1,0 +1,619 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Davids three mighties: or Sovereignties three champions: being the three prime reformers of the Protestant religion, Luther, Calvin, Tindal. Faithfully cited, and affectionately presented to all the misled people of England, for their instruction and direction, how to deport themselves in the unhappy division betwixt the King and them. That yet at the last by the light of these three glorious professors of the Gospel, they may the better discern both their owne errors, and the impostures of their false teachers. Other renowned worthies since the Reformation have done honourably in the defence of sovereignty, howbeit they attained not unto the first three, 2 Sam. 23. v.18.23.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 87 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81982</idno>
+            <idno type="STC">Wing D378</idno>
+            <idno type="STC">Thomason E42_1</idno>
+            <idno type="STC">ESTC R11742</idno>
+            <idno type="EEBO-CITATION">99859120</idno>
+            <idno type="PROQUEST">99859120</idno>
+            <idno type="VID">111186</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81982)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111186)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 8:E42[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Davids three mighties: or Sovereignties three champions: being the three prime reformers of the Protestant religion, Luther, Calvin, Tindal. Faithfully cited, and affectionately presented to all the misled people of England, for their instruction and direction, how to deport themselves in the unhappy division betwixt the King and them. That yet at the last by the light of these three glorious professors of the Gospel, they may the better discern both their owne errors, and the impostures of their false teachers. Other renowned worthies since the Reformation have done honourably in the defence of sovereignty, howbeit they attained not unto the first three, 2 Sam. 23. v.18.23.</title>
+               </titleStmt>
+               <extent>[6], 34 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leonard Lychfield, printer to the University,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1643 [i.e. 1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aprill 10".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Calvin, Jean, 1509-1564.</term>
+               <term>Luther, Martin, 1483-1546.</term>
+               <term>Tyndale, William, d. 1536.</term>
+               <term>Sovereignty --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111186:1"/>
+            <pb facs="tcp:111186:1" rendition="simple:additions"/>
+            <p>DAVIDS THREE MIGHTIES: OR SOVEREIGNTIES THREE CHAMPIONS: Being the three prime Reformers of the Proteſtant Religion, <hi>Luther, Calvin, Tindal.</hi>
+            </p>
+            <p>Faithfully cited, and affectionately preſented to all the miſled People of England, for their inſtruction and direction, how to deport themſelves in the un<g ref="char:EOLhyphen"/>happy diviſion betwixt the King and them.</p>
+            <p>That yet at the laſt by the light of theſe three Glorious Profeſſors of the Goſpel, they may the better diſcern both their owne errors, and the impoſtures of their falſe Teachers.</p>
+            <q>Other Renowned Worthies ſince the Reformation have done honourably in the defence of Sovereignty, <hi>Howbeit they attained not unto the firſt three,</hi> 
+               <bibl>2 Sam. 23. v. 18.23.</bibl>
+            </q>
+            <p>
+               <hi>OXFORD.</hi> Printed by <hi>Leonard Lychfield,</hi> Printer to the Univerſity, 1643.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:111186:2"/>
+            <pb facs="tcp:111186:2"/>
+            <head>To the Seduced People of <hi>England.</hi>
+            </head>
+            <p>VVHen the Princes and people of Judah, hur<g ref="char:EOLhyphen"/>ried with their ſinnes, and driven on by their falſe Prophets, were in the ready way to utter ruine, the Lord called unto them by his Prophet to make a ſtand, and looke about them, adviſing them for their ſafety and quiet in the midſt of their diſtempers, to aske for the old paths, where the good way was, and to walke therein, and ſo they ſhould finde reſt to their ſoules, <hi>Ierem.</hi> 6. To tell you, that the Princes and People of this Nation, too many of them at leaſt, are in the like dange<g ref="char:EOLhyphen"/>rous condition, upon the like cauſe, and by the like inſtru<g ref="char:EOLhyphen"/>ments, were to tell you, not what you dream, but what this whole Nation feels and groanes under; and therefore to call upon you to uſe the like meanes for your deliverance and preſevation, cannot but be a likely way of doing you much good, if you have but ſo much grace as to hearken thereunto. But as it was Judah's grand error, if not the complement of her iniquity, to refuſe to walke in the an<g ref="char:EOLhyphen"/>cient paths, and in the way whereunto the Prophets invited them, and to chuſe rather to walke in [new] paths, in a way not caſt up [wherein their lying prophets had miſled them] <hi>Ierem.</hi> 6.16. <hi>&amp; cap.</hi> 18. <hi>v.</hi> 15. ſo I pray God it bee not Englands. We have multitudes of us come neare, very neare that deſperate obſtinacy a good while ſince, witneſſe
+<pb facs="tcp:111186:3"/>the impriſoning ſo many grave orthodox Divines, that have ever walked in thoſe ancient paths themſelves, without tur<g ref="char:EOLhyphen"/>ning to the right hand or to the left, and have done their beſt to lead their people with them; and witneſſe alſo the ſup<g ref="char:EOLhyphen"/>preſſing ſo many excellent Sermons, books and tractates, ſome in the Preſſe, others at their firſt comming forth, com<g ref="char:EOLhyphen"/>poſed and framed wholly for the miſled peoples informa<g ref="char:EOLhyphen"/>tion, that they might ſee the error of their new wayes, and returne to their old paths of duty and loyalty to God, and their Sovereigne. But, thankes be to the Lord, we are not all delivered up to that ſtupendious blindeneſſe and hard<g ref="char:EOLhyphen"/>neſſe of heart. Nay my hope and charity doe as yet perſwade my faith to beleeve, that hundreds of this King<g ref="char:EOLhyphen"/>dome, if not thouſands, even of thoſe ſeduced wretches, that have gone out in this preſent horrid Rebellion againſt our moſt Gracious King, have gone out, like thoſe two hundred in <hi>Abſalons</hi> Rebellion againſt King <hi>David,</hi> 2 <hi>Sam.</hi> 15. <hi>In the ſimplicity of their hearts,</hi> and had they been ſuf<g ref="char:EOLhyphen"/>fered to have knowne, what ſome Divines were willing and ready to have imparted unto them, they themſelves would have ſuffered as much as any, rather then have acted in that villany. And for their ſakes it is, that I adventure the pub<g ref="char:EOLhyphen"/>liſhing theſe three Worthies opinions concerning the duty of Subjects to their Sovereigne though wicked and tyran<g ref="char:EOLhyphen"/>nicall; that by the truth and ſoundnes of theſe firſt Refor<g ref="char:EOLhyphen"/>mers of the true Proteſtant Religion, the falſeneſſe and rottenneſſe of our new Reformers (as they would be repu<g ref="char:EOLhyphen"/>ted) may the more eaſilie be diſcovered, and that by their acknowledging ſuch an indiſpenſible through obedience to be due to the worſt of Princes, theſe deceived ones may at the laſt bee ſhamed out of their Rebellion againſt the beſt.</p>
+            <pb facs="tcp:111186:3"/>
+            <p>I could have produced in this cauſe above threeſcore witneſſes of the moſt famouſly renowned for learning and piety that ever the Reformed Churches brought forth; but ſome conſiderable reaſons perſwaded me to content my ſelfe, and to hope I may ſatisfie others, with urging only theſe three: Firſt, becauſe God himſelfe preſcribes that number of witneſſes as ſufficient for the eſtabliſhing of truth, <hi>Deut.</hi> 19.15. <hi>Matth.</hi> 18.16. and with whom Gods word is of power, that number of witneſſes preſcribed in his word cannot but be ſo of prevalency, eſpecially when their teſtimonies are grounded upon Gods word, as theſe three are. Secondly, the multiplying of witneſſes would have proved over chargeable to thoſe for whoſe ſake the vindi<g ref="char:EOLhyphen"/>cating of this cauſe by this fair way of tryall is principally undertaken, I meane, the common ſort of people, who though they can be content poore ſoules many of them to buy the truth, <hi>Proverb.</hi> 23.23. yet being they may not ſell it againe, divers will not, and ſome cannot, though they would be at the coſt to give any great rate for it, of how great concernment ſoever it be; and he were unworthy to partake of that price that Chriſt paid for mens ſoules, that would not conſult the beſt he could for the ſoules of the poore, as well as of the rich, all being alike pretious in our Redeemers ſight. Thirdly, the poore Printers are a little to be conſidered in theſe preſt oppreſſing times; for thoſe few of them that are ſo honeſt and valiant, as to dare to print ought that ſavours of loyalty and duty to their Sove<g ref="char:EOLhyphen"/>reigne are ſo hunted and perſecuted from place to place, both by day and night, that to imploy them in ought that would long detaine them, were to betray them, and per<g ref="char:EOLhyphen"/>haps thoſe that ſet them on worke. Laſtly, I would not willingly prevent my good friend Mr. <hi>Catford,</hi> whom as I
+<pb facs="tcp:111186:4"/>finde by his Epiſtle before the Exhortation to Peace to have taken this very way of conviction, and to have made ſo fair a progreſſe therein, that had not the inſpired Colo<g ref="char:EOLhyphen"/>nell had better information thereof, then he had lately a re<g ref="char:EOLhyphen"/>velation of conquering after ſo often running away, that worke intended had beene long ſince finiſhed; ſo it is yet hoped, and earneſtly deſired, that he may have liberty to perfect the ſame. Theſe reaſons prevailed with me to urge only the teſtimonies of Three, and why I made choice of theſe three, let the teſtimonies themſelves be peruſed, and they will ſpeake enough to ſilence that demand. Read then, and when ye are converted ſtrengthen your brethren: which that ye may be and doe, is, and ſhall be the conſtant prayer of</p>
+            <closer>
+               <signed>Your conſtant Brother.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:111186:4"/>
+            <p>DOctor <hi>Martin Luther,</hi> that glorious day-ſtarre of the bleſſed Reformation, that third <hi>Elias,</hi> that burning and ſhining light of the Goſpell.</p>
+            <p>
+               <hi>Tom.</hi> 1. <hi>in decla. pop. de praecept.</hi> 4. Although they (ſpeaking of Sovereigne Princes) exact upon, and oppreſſe the Country people, or their Citizens, or their Prieſts, yet they are to be borne with, no otherwiſe then as the hand of the Lord preſſing hard upon our ſinnes, and juſt deſerts.</p>
+            <p>
+               <hi>Idem. Tom.</hi> 2. <hi>in Act. Worm. habit.</hi> I know that Magiſtrates and Powers are to be obeyed, even thoſe that live naughtily and wickedly; and ſo have I taught in all my writings.</p>
+            <p>
+               <hi>Ib. fol.</hi> 311. If any man raiſe ſeditions and tumults, he abu<g ref="char:EOLhyphen"/>ſeth the word of God to ſerve his owne luſts and affections; for the word of Chriſt, or of God, cauſeth no outward tumults, though it doe threaten and denounce to wicked men, eſpecially Tyrants, both outward tumults and utter devaſtations; but it doth by little and little free the ſoules of men from the bonds of Tyrants, ſo that thoſe bonds are contemned by them, which is of all, the moſt powerfull and the moſt prevalent redreſſe for the repreſſing their tyranny.</p>
+            <p>
+               <hi>Idem in Geneſ. cap.</hi> 13. It is no ſmall comfort, that God doth conſtitute Dominions or royall Powers, and that he doth pre<g ref="char:EOLhyphen"/>ſerve and defend them; neither doe they (as we for the moſt part thinke) increaſe or fall at all adventure. The Heathen doe not looke upon government thus from God, but they dreaming<g ref="char:EOLhyphen"/>ly conceive Dominions to be conſtituted and governed by their owne induſtry.</p>
+            <p>
+               <hi>Idem in</hi> 1 <hi>Pet.</hi> 2. on thoſe words, <hi>Feare God, Honour the King;</hi> He doth not ſay this, to magnifie Kings and Rulers of the Earth, but that we ſhould honour them, though they be Hea<g ref="char:EOLhyphen"/>then, which is the very thing that Chriſt himſelfe did, and alſo
+<pb n="2" facs="tcp:111186:5"/>the Prophets before him, who proſtrated themſelves at the feet of the King of Babylon.</p>
+            <p>
+               <hi>Ib.</hi> We muſt be ſubject to the powers, and doe what they command us, ſo long as they doe not enthrall our conſciences, although they play the meer Tyrants.</p>
+            <p>
+               <hi>Ib. De bonis operibus</hi> 4. <hi>praecep.</hi> Although the temporall or ſe<g ref="char:EOLhyphen"/>cular power doe thoſe things that are unjuſt, as the King of Ba<g ref="char:EOLhyphen"/>bylon did to the King of Iſrael, yet not withſtanding God will have obedience yeelded to them without all fraud or deceit.</p>
+            <p>It would be an endleſſe labour to trace this Loyaliſt through all his voluminous works, he being one (as <hi>Melancthon</hi> teſtifies of him in his Preface before <hi>Tom.</hi> 2. <hi>Luther oper.</hi>) that did deteſt the ſeditious Teachers of his time; and did not only exhort all men to give to God the things that are Gods, and to Caeſar the things that are Caeſars, but did moſt conſtantly practiſe the ſame, avoyding all ſeditious counſells, and condemning moſt ſharply all Tumults and Anabaptiſticall outrages. That ingenious and much approved Hiſtoriographer <hi>John Sleidan</hi> hath left enough collected to our hands in his Commentaries, both to aſſure all poſterity of that Worthy's judgement and practiſe in point of Loyalty and Obedience, and to convince the ſeditious and re<g ref="char:EOLhyphen"/>bellious of the error and wickedneſſe of theirs.</p>
+            <p>
+               <hi>Lib.</hi> 5. <hi>Comment.</hi> Having recorded the demands of the ruſtick Rebells in Germany, who had appealed to <hi>Luther, anno Dom.</hi> 1525. he brings in <hi>Luther</hi> returning this anſwer:</p>
+            <p>Tis true, I confeſſe, that thoſe Princes, who doe not admit the preaching of the Goſpel, who divers wayes oppreſſe, and lay heavy loads on the people, are worthy to be tumbled down from their Thrones by God; neither have th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y nay excuſe for themſelves. And although this be ſo, yet you (ſpeaking to thoſe Rebells) ought to have a care to carry a conſcience pure and blameleſſe, leſt otherwiſe ye make ſhipwracke both of ſoul and body. Neither ought ye to thinke upon your owne ſtrength, or how much your adverſaries are to be reprehended, but how lawfull and juſt the cauſe is ye defend. Wherefore be diligent<g ref="char:EOLhyphen"/>ly cautions, and beleeve not every mans preaching, for Satan hath at this time, under the cloake of the Goſpell, raiſed up ma<g ref="char:EOLhyphen"/>ny
+<pb n="3" facs="tcp:111186:5"/>ſeditious and altogether bloudy Teachers,—Ye take up in<g ref="char:EOLhyphen"/>deed the name of God, and call your ſelves the Chriſtian aſſem<g ref="char:EOLhyphen"/>bly, and boaſt that ye follow in all things that Law which God hath preſcribed.—But it may eaſily be demonſtrated, that you falſly cover over your actions with the name of God; and there<g ref="char:EOLhyphen"/>fore a may may clearly foreſee what the iſſue will be. For hee failes not who hath ſaid, <hi>They that take the ſword, ſhall periſh, by the ſword;</hi> to wit, They that out of their owne boldneſſe arrogate to themſelves the power of puniſhing others, when notwith<g ref="char:EOLhyphen"/>ſtanding <hi>Paul</hi> commands all men to obey the Magiſtrate in all things with reverence and feare. What will ye anſwer to theſe things, who pretend that ye will follow the preſcript of divine Law; and yet in the meane time ye ſnatch the ſword by force, &amp; reſiſt the Magiſtrate, whom God hath placed over you? Is not this to take the name of God in vaine? But you will ſay, the Magiſtrate ſo carries himſelfe, that he is altogether inſufferable;<note place="margin">By Magi<g ref="char:EOLhyphen"/>ſtrate we are to under<g ref="char:EOLhyphen"/>ſtand in this as in the o<g ref="char:EOLhyphen"/>ther teſtimo<g ref="char:EOLhyphen"/>nies, the ſu<g ref="char:EOLhyphen"/>pream Ma<g ref="char:EOLhyphen"/>giſtrate.</note> for he both takes from us the Doctrine of the Goſpel, and doth ſo oppreſſe us in all other things, as that nothing can be beyond it. Well grant it be ſo, yet notwithſtanding commotions and ſeditions ought not therefore to be raiſed; for it doth not be<g ref="char:EOLhyphen"/>long to every one to correct things that are evill; but this be<g ref="char:EOLhyphen"/>longs only to him, to whom tribute and the power of the ſword doe belong, as the Scripture doth evidently teach.—The Ma<g ref="char:EOLhyphen"/>giſtrate doth wickedly, but ye doe much more wickedly, who, deſpiſing the command of God, invade anothers juriſdiction, and leave nothing at all to the Magiſtrate, for what hath he left him, when ye take away the power from him? I appeale to your ſelves. He that takes away from any a great part of his goods, yet leaves him ſomething, and he that, after he hath ta<g ref="char:EOLhyphen"/>ken away his goods, takes away his life alſo, whether of theſe two ſeems to you the more cruell? The Magiſtrate takes from you poſſeſſions, tis unjuſt ſo to doe: but ye take from him ju<g ref="char:EOLhyphen"/>riſdiction, wherein conſiſts al his eſtate both of body and goods, and therefore yee doe the greater wrong. But you will ſay againe, we doe not deſire to take away the Magiſtrates life or eſtate. Beleeve that, who will, I will not. He that takes away the principall part from any, will not feare to take away alſo the
+<pb n="4" facs="tcp:111186:6"/>reſt which depends upon it. But let it be ſo indeed as ye ſay, let the Magiſtrates ſtill poſſeſſe their goods, let their life alſo be ſafe; yet that which ye have committed exceeds all moderati<g ref="char:EOLhyphen"/>on; when as having taken away all their power from them, ye your ſelves would be Lords of thoſe things which are theirs. I beſeech you, weigh this buſineſſe well: If this your intent and purpoſe be praiſe-worthy, and prevail, from henceforth let there be no more judicature, let there be no Magiſtrate, and let it bee lawfull for every man to contrive privately againſt any man af<g ref="char:EOLhyphen"/>ter his owne luſt and pleaſure, and let no other thing be expe<g ref="char:EOLhyphen"/>cted thence, but mutuall ſlaughters and robberies; for as every man ſhall thinke himſelfe injured, ſo preſently will he take ven<g ref="char:EOLhyphen"/>geance after his owne deſire. Now if this thing be both unjuſt, and not to be tollerated in any perſon, much leſſe may it be granted to any congregated multitude of men, or if it be gran<g ref="char:EOLhyphen"/>ted to ſuch, it ſhall be alſo lawfull for every man. What, if in this very Aſſembly of yours, things ſhould grow to that licenti<g ref="char:EOLhyphen"/>ouſneſſe, that every one would privately avenge his own cauſe; pray tell me, what would you doe? without doubt, ſuch a one would be enforced to ſtand to the publicke judgement inſtitu<g ref="char:EOLhyphen"/>ted by you. What excuſe therefore have yee that overthrow judgement, and reſiſt the Magiſtrate, which God himſelfe hath ſet over you? This very Law whereof we now ſpeake is im<g ref="char:EOLhyphen"/>printed in the mindes of all men, and embraced even by thoſe people that are moſt barbarous; for otherwiſe there would en<g ref="char:EOLhyphen"/>ſue the greateſt confuſion of all things that could be: and though ye ſhould diligently obſerve it, yet notwithſtanding in this very regard you would be no whit better then either the Turkes or other Nations of that kinde, ignorant of our Religion; for to allow of publicke judgement, and to ſu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mit to the authority of the Magiſtrate, doth not make a man a Chriſtian; for even ne<g ref="char:EOLhyphen"/>ceſſity it ſelfe compels men to doe ſo againſt their wills. Where<g ref="char:EOLhyphen"/>fore ye, in that ye pull up this very Law which is implanted in the minde, and common to all men, are much worſe then the prophane Gentiles, ſo farre are ye from being worthy of the name of Chriſtian; which title becauſe ye uſurpe to your ſelves, and wrong the divine Name (unworthy I wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e appella<g ref="char:EOLhyphen"/>tion
+<pb n="5" facs="tcp:111186:6"/>of Turkes in that ye violate the Law of Nature) how will you ſtand at laſt in the ſight of Chriſt, when he ſhall come to judge us all? Conſider therefore ſeriouſly what manner of tea<g ref="char:EOLhyphen"/>chers you are; for I feare leſt ſome bloudy minded men have crept in amongſt you, who by their Sermons incite you to this courſe, that ſo at length by meanes of your aid they may invade the Rule and Dominion, altogether regardleſſe of your fortunes and ſafety. God commands all vengeance to be left to himſelf: the Scripture commands to obey the Magiſtrate though a wick<g ref="char:EOLhyphen"/>ed one: obey therefore ye muſt, otherwiſe ye ſhall indeed raiſe a commotion, but it ſhall at length fall upon your owne pate; neither will God ſuffer this your licentiouſneſſe to paſſe unpuni<g ref="char:EOLhyphen"/>ſhed; and whiles you ſeeke for liberty, you ſhall purchaſe to your ſelves loſſe of life, of goods, and of ſoule. The wrath of God is hot againſt you, and the Divell the enemy of our ſalvati<g ref="char:EOLhyphen"/>on hath ſent falſe teachers amongſt you. Wherefore following my advice, beware and repent.—</p>
+            <p>Now we will ſpeake of the Chriſtian or Evangelicall Law, for becauſe you arrogate this appellation to your ſelves it is ve<g ref="char:EOLhyphen"/>ry fit that we examine what your Law is, And firſt of all Chriſt commands not to reſiſt evill, but to him that ſtrikes on the one cheek, to turne the other alſo; to him that takes away thy coat, he commands thee to give thy cloak alſo; he commands as well to wiſh well as to doe well to our enemies: to the ſame pur<g ref="char:EOLhyphen"/>poſe there are many places in holy Writ. Now conſider how this deſigne of yours is anſwerable to Chriſts commands; con<g ref="char:EOLhyphen"/>ſider whither your Teachers have miſled you. Certainly it is the duty of Chriſtians to endure and undergoe the croſſe, not to re<g ref="char:EOLhyphen"/>ſiſt, not to revenge, not to ſmite with the ſword: But is there a<g ref="char:EOLhyphen"/>ny ſuch like thing ſeen in you? The profeſſion of Chriſtianity is a matter of great difficulty, and there are very few which re<g ref="char:EOLhyphen"/>ally performe what they ought; which that it may be more ful<g ref="char:EOLhyphen"/>ly underſtood, I will bring you an example of that Law where<g ref="char:EOLhyphen"/>of we ſpeake. <hi>Peter,</hi> that he might defend his Maſter, ſmote the ſervant of the high Prieſt: was it not for a juſt cauſe? when as they did not only ſeek the life of Chriſt, but did alſo take a<g ref="char:EOLhyphen"/>way from his Diſciples the Doctrine of the Goſpel, in which
+<pb n="6" facs="tcp:111186:7"/>all their ſalvation was placed, to wit, in taking away their Ma<g ref="char:EOLhyphen"/>ſter Chriſt. But ſuch and ſoheynous an injury is not as yet offe<g ref="char:EOLhyphen"/>red unto you. And what ſaith Chriſt in the meane time? Hee commands <hi>Peter</hi> to forbeare ſuch defence, pronouncing a hea<g ref="char:EOLhyphen"/>vy ſentence againſt thoſe that ſtrike with the ſword: that is, ſuch as contemning the Magiſtrate take upon them to exerciſe private revenge. What doth he, when he is faſtened to the croſſe, when he is not ſuffered to execute the office of teaching enjoyned by God the Father? He beares it patiently, com<g ref="char:EOLhyphen"/>mits all the buſineſſe to God the Father, and prayes unto him for his ſmiters. Theſe are the footſteps to be traced by you, or this ſo ſpecious title is to be laid aſide. If ye will follow the example of Chriſt, the power of God would manifeſt it ſelfe: and as af<g ref="char:EOLhyphen"/>ter the moſt unworthy death of his Sonne hee propagated the Goſpell farre and wide in deſpite of all adverſaries; ſo with<g ref="char:EOLhyphen"/>out queſtion would he alſo looke upon you, and beſtow the Doctrine of Salvation in abundance: But now ſeeing the buſines is managed by Armes, you ſhall not obtaine what you would, and your Armes ſhall be wrung out of your hands.</p>
+            <p>Let me now ſpeake ſomething of my ſelf: The whole world oppoſed me with all might and maine; and yet the more vehe<g ref="char:EOLhyphen"/>ment was their reſiſtance, the more ſpreading was my doctrine. And why ſo? I did nothing violently, I raiſed no commotions. I was not deſirous of revenge, but reverently honoured the ci<g ref="char:EOLhyphen"/>vill Powers, maintained them by my writings as much as in me lay; and which is the chiefe thing of all, committing the mat<g ref="char:EOLhyphen"/>ter to God, I reſted wholly on his power: and thus hav I been preſerved to this very day, maugre the Pope and all adverſaries, and my doctrine hath alſo ſpread it ſelfe to many people. But ye now ruſh on importunely, and whiles ye thinke to further the buſineſſe, ye conſider not how much ye hinder <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, &amp;c. Thus farre and thus loyally <hi>Luther,</hi> if we can finde but as much in Mr. <hi>Calvin</hi> the other great light of that illuſtrious Reformation, we ſhall ſcarce need to conſult a third, every Religious and ſober Proteſtant aſcribing ſo much honour and credit to thoſe two, eſpecially in thoſe points wherein they both concur and agree.</p>
+            <pb n="7" facs="tcp:111186:7"/>
+            <p>MAſter <hi>John Calvin</hi> in his fourth book of Inſtitutions, Chap. 20. <hi>Sect.</hi> 22. The firſt duty of Subjects towards their Magi<g ref="char:EOLhyphen"/>ſtrates, is to thinke moſt honourably of their office, namely which they acknowledge to be a juriſdiction committed of God, and therefore to eſteem them and reverence them as the Miniſters and Deputies of God. For a man may finde ſome which yeeld themſelves very obedient to their Magiſtrates, and would not that there were not ſome whom they ſhould obey, becauſe they ſo know it to bee expedient for the common benefit: but of the Magiſtrates themſelves they think no other<g ref="char:EOLhyphen"/>wiſe of them then of certaine neceſſary evills. But <hi>Pe<g ref="char:EOLhyphen"/>ter</hi> requireth ſomewhat 1 <hi>Pet.</hi> 2.17. when he commandeth that the King be honoured: and <hi>Solomon, Prov.</hi> 24.21. when hee commandeth God and the King to be feared: for <hi>Peter</hi> under the word of honouring conteineth a ſincere and well deeming eſtimation, and <hi>Solomon</hi> joyning the King with God, ſheweth that he is full of a certaine holy reverence and dignity; this is alſo a notable commendation in <hi>Paul,</hi> that we obey not only for wrath, but for conſcience, whereby he meaneth that Sub<g ref="char:EOLhyphen"/>jects ought to be led not only with feare of Princes and Rulers to be holden in their ſubjection (as they are to yeeld to their ar<g ref="char:EOLhyphen"/>med enemy, which ſee that vengeance ſhal readily be taken on them if they reſiſt) but becauſe the obediences that are ſhewed to them are ſhewed to God himſelfe, foraſmuch as their power is of God. I ſpeake not of the men as if the viſion of dignity did cover fooliſhneſſe, or ſluggiſhneſſe, or cruelties, or wicked manners, and full of miſchievous doing; but I ſay that the de<g ref="char:EOLhyphen"/>gree it ſelfe is worthy of honour and reverence, that whoſoe<g ref="char:EOLhyphen"/>ver be Rulers may be eſteemed with us, and have reverence in reſpect of their being Rulers.</p>
+            <p>
+               <hi>Sect.</hi> 23. Of this then alſo followeth another thing: That with mindes bent to the honouring of them, they declare their obedience in proofe to them; whether it be to obey their Pro<g ref="char:EOLhyphen"/>clamations, or to pay tribute, or to take in hand publicke offices and charges that ſerve for common defence, or to doe any o<g ref="char:EOLhyphen"/>ther of their commandements. <hi>Let every ſoule</hi> (ſaith <hi>Paul</hi>) <hi>be
+<pb n="8" facs="tcp:111186:8"/>ſubject to the higher powers, for he that reſiſteth the power, reſiſteth the ordinance of God, Rom.</hi> 13.1. The ſame <hi>Paul</hi> writeth to <hi>Tit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, Tit.</hi> 3.1. <hi>Warne them that they be ſubject to rulers and powers, that they obey the Magiſtrates, that they be ready to every good worke;</hi> and <hi>Peter</hi> ſaith, 2 <hi>Pet.</hi> 3.13. <hi>Be ye ſubject to every humane crea<g ref="char:EOLhyphen"/>ture</hi> (or rat er as I tranſlate it) <hi>Ordinance for the Lords ſake, either to the King as moſt excellent, or to the rulers that are ſent by him, to the puniſhment of evill doers, but to the praiſe of well doers.</hi> Moreo<g ref="char:EOLhyphen"/>ver that they ſhould teſtifie that they doe not faine ſubjection, but are ſincerely and heartily ſubject. <hi>Paul</hi> addeth, 1 <hi>Tim.</hi> 2. <hi>That they ſhould commend to God the ſafety and proſperity of them un<g ref="char:EOLhyphen"/>der whom they live. I exhort</hi> (ſaith he) <hi>that there be made prayers, beſeechings, interceſſions, thanksgivings, for all men, for Kings, and for all that be ſet in ſuperiority, that we may live a peaceable and quiet life with all godlineſſe and honeſty.</hi> Neither let any man here de<g ref="char:EOLhyphen"/>ceive himſelfe, for ſith the Magiſtrate cannot be reſiſted, but that God muſt alſo be reſiſted; although it may be thought that an unarmed Magiſtrate may freely be deſpiſed, yet God is armed which will ſtrongly take vengeance on the deſpiſing of him<g ref="char:EOLhyphen"/>ſelfe. Moreover, under this obedience I containe moderation, which private men ought to binde themſelves to keep in caſes touching the publick ſtate, that they doe not of their own heads intermeddle in publick buſineſſes, or raſhly break into the office of the Magiſtrate, and enterpriſe nothing publickly. If any thing ſhall in a publick Ordinance be behoofull to be amended, let not themſelves raiſe uproares, nor put their hands to the do<g ref="char:EOLhyphen"/>ing of it, which they all ought to have faſt bound in this behalf, but let them commit it to the judgement of the Magiſtrate, whoſe hand alone is herein at liberty. I meane that they pre<g ref="char:EOLhyphen"/>ſume to doe nothing uncommanded: for when the command<g ref="char:EOLhyphen"/>ment of the Ruler is adjoyned, then are they alſo furniſhed with publicke authority, for as they are wont to call the Counſellors of a King his Ears and Eyes, ſo not unfitly a man may call them the hands of the Prince, whom by his commandement he ſet<g ref="char:EOLhyphen"/>teth in authority for the doing of things.</p>
+            <p>
+               <hi>Sect.</hi> 24. Now foraſmuch as we have hitherto deſcribed a Ma<g ref="char:EOLhyphen"/>giſtrate ſuch as is indeed the ſame that he is called, namely, the
+<pb n="9" facs="tcp:111186:8"/>Father of the Country, and as the Poet calleth him the Paſtor of the people, the keeper of peace, the protector of righteouſ<g ref="char:EOLhyphen"/>neſſe, the revenger of innocence: he is worthyly to be judged a mad man that alloweth of ſuch a government: but when as this is in a manner the experience of all ages, that of Princes ſome being careleſſe of all things, to the foreſeeing whereof they ought to have beene heedfully bent, doe without all care ſlothfully wallow in delights: other ſome addicted to their gaine, doe ſet out to ſale all Lawes, Priviledges, Judgements, and grants: other ſome ſpoile the poore Communalty of mony, which they may after waſte upon mad prodigall expendings: other ſome exerciſe meer robberies, in pillidging of houſes, defi<g ref="char:EOLhyphen"/>ling of virgins and matrons, murdering of innocents: many cannot be perſwaded that ſuch ſhould bee acknowledged for Princes, whoſe authority they ought to obey ſo far as they may, for in ſo great heynous unworthineſſe among doings ſo much contrary to the duty not only for a Magiſtrate, but alſo of a man, they behold no form of the image of God which ought to ſhine in a Magiſtrate: when they ſee no token of that Miniſter of God which was given for praiſe to the good, and for vengeance to the evill: ſo neither doe they alſo acknowledge ſuch a Go<g ref="char:EOLhyphen"/>vernour, whoſe dignity and authority the Scripture commen<g ref="char:EOLhyphen"/>deth unto us: and truly, this feeling of affection hath alway been naturally planted in the minds of men no leſſe to hate and abhor Tyrants, then to love and honor lawfull Kings.</p>
+            <p>
+               <hi>Sect.</hi> 25. But if we looke to the word of God, it will lead us farther, that we be ſubject not only to the government of thoſe Princes which execute their office towards us well, and with ſuch faithfulneſſe as they ought, but alſo of all them which by what mean ſoever it be, have the dominion in poſſeſſion al<g ref="char:EOLhyphen"/>though they performe nothing leſſe then that which pertaineth to the duty of Princes; for though the Lord teſtifieth that the Magiſtrate is a ſpeciall great gift of his liberality for preſer<g ref="char:EOLhyphen"/>ving the ſafety of men, and appointeth to Magiſtrates them<g ref="char:EOLhyphen"/>ſelves their bounds; yet he doth therewithall declare, that of what ſort ſoever they be, they have not their authority but from him, that thoſe indeed which rule for benefit of the common<g ref="char:EOLhyphen"/>weale
+<pb n="10" facs="tcp:111186:9"/>are true examplars and paterns of his bountifulneſſe; that they that rule unjuſtly and wilfully are raiſed up by him to pu<g ref="char:EOLhyphen"/>niſh the wickedneſſe of the people, that all <hi>legally</hi> have that ma<g ref="char:EOLhyphen"/>jeſty wherewith he hath furniſhed a lawfull power. I will pro<g ref="char:EOLhyphen"/>ceed no further, till I have added ſome certaine teſtimonies of that point, yet we need not much to labour to prove that a wic<g ref="char:EOLhyphen"/>ked King is the wrath of God upon the earth, foraſmuch as I thinke that no man will ſay the contrary, and otherwiſe there ſhould be no more ſaid of a King, then of a common robber that violently taketh away thy goods, and of an adulterer that defileth thy bed, of a murderer that ſeeketh to kill thee, when as the Scripture reckoneth all ſuch calamities among the curſes of God: but let us rather tarry upon proving that, which doth not ſo eaſily ſettle in the mindes of men; That in a moſt naughty man, and moſt unworthy of all honour, if ſo that he have the publicke power in poſeſſion, remaineth that noble and divine power which the Lord hath by his word given to the Miniſters of his righteouſneſſe and judgement; and therefore that hee ought of his Subjects to be had in as great reverence and eſti<g ref="char:EOLhyphen"/>mation, ſo much as pertaineth to publicke obedience, as they would have the beſt King if he were given them.</p>
+            <p>
+               <hi>Sect.</hi> 26. Firſt I would have the readers to perceive and di<g ref="char:EOLhyphen"/>ligently marke that providence and ſingular doings of God, which is in the Scripture not without cauſe ſo oft rehearſed un<g ref="char:EOLhyphen"/>to us in diſtributing of Kingdomes, and making Kings whom it pleaſeth him: in <hi>Daniel</hi> 2.21. it is ſaid, <hi>The Lord changeth times and courſes of times, he caſteth away and maketh Kings.</hi> Again, that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he living may know that the Higheſt is mighty in the Kingdom <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f men, and he ſhall give it to whom he will, with which man<g ref="char:EOLhyphen"/>ner of ſentences whereas the whole Scripture aboundeth, yet the ſame Propheſie of <hi>Daniel</hi> ſpecially ſwarmeth full: now what manner of King was <hi>Nebuchadnezzar,</hi> he that conquered J<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uſalem, it is ſufficiently knowne, namely, a ſtrange invader and deſtroyer of other. Yet in <hi>Ezekel</hi> 29 19. the Lord affirmeth that he gave him the land of Egypt for the ſervice that he had d me to him in waſting it. And <hi>Daniel</hi> ſaid to him, <hi>Dan.</hi> 2.37. Thou King of Kings, to whom the King of Heavens hath gi<g ref="char:EOLhyphen"/>ven
+<pb n="11" facs="tcp:111186:9"/>a mighty, and ſtrong, and glorious Kingdome; to thee, I ſay he hath given it, and all the lands where dwell the children of men, the beaſts of the wood, and foules of the aire; he hath delivered them into thy hand, &amp; hath made thee beare rule over them. Again, he ſaid to his ſon <hi>Belſaſar, Dan.</hi> 5.18. The Higheſt God hath given to <hi>Nebuchadnezer</hi> thy fathers Kingdome and Royalty, honour and glory: and by reaſon of the royalty that he gave him, all peoples, tribes, and languages were trembling and fearfull at his ſight: when we heare that a King is ordained of God, let us therefore call to remembrance thoſe heavenly warnings concerning the honour and fearing of a King, then we ſhall not doubt to account a moſt wicked Tyrant in the ſame place wherein the Lord hath vouchſafed to ſet him. <hi>Sa<g ref="char:EOLhyphen"/>muel</hi> when he gave warning to the people of Iſrael, 1 <hi>Sam.</hi> 8.12. what manner of things they ſhould ſuffer at the hands of their Kings, ſaid, <hi>This ſhall be the right of the King that ſhall reign over you; he ſhall take your ſonnes and put them to his chariot, to make them his horſemen, and to plow his land, and reap his crop, and to make inſtruments of war. He ſhall take your daughters that they may be his dreſſers of oyntments, his Cookes and Bakers: your lands, your vineyards, and your beſt olive plants he ſhall take away, and give to his bondſervants: he ſhall take tithes of your ſeeds and vine<g ref="char:EOLhyphen"/>yards, and ſhall give them to his Eunuches, and bondſervants: he ſhall take away your bondmen, your bondwomen and your aſſes, and ſet them to his work<g ref="char:punc">▪</g> yea and he ſhall take tythes of you flocks: and ye ſhall be his bondſervants.</hi> Verily Kings ſhould not have done this or right, whom the Law did very well inſtruct to all continuance; but it was called a right over the people which it behooved them of neceſſity to obey, and they might not reſiſt it: as if <hi>Samuel</hi> had ſaid, the wilfulneſſe of Kings ſhall run to ſuch licentiouſneſſe, which it ſhall not be your part to reſiſt; to whom this onely thing ſhall be left, to obey their commandements and hearken to their words.</p>
+            <p>
+               <hi>Sect.</hi> 27. But chiefly, there is in <hi>Jeremy</hi> a notable place, and worthy to be remembred, which although it be ſomewhat long, yet I will be content to rehearſe, becauſe it moſt plainly deter<g ref="char:EOLhyphen"/>mineth this whole queſtion, <hi>Jerm.</hi> 27.3. <hi>I have made the earth
+<pb n="12" facs="tcp:111186:10"/>and men,</hi> ſaith the Lord, <hi>and the living creatures that are on the face of the earth in my great ſtrength and ſtretched out arme, and I will de<g ref="char:EOLhyphen"/>liver it to him whom it pleaſeth in mine eyes: and now therefore I have given al theſe lands into the hands of Nebuchadnezar my Servant, and all Nations and great Kings ſhall ſerve him till the time ſhall come of that land; and it ſhall be that a Nation and a Kingdome that hath not ſerved the King of Babel, I will viſit that Nation in ſword, fa<g ref="char:EOLhyphen"/>mine, and peſtilence: wherefore ſerve ye the King of Babel, and live.</hi> We ſee with how great obedience the Lord willed that cruell and proud Tyrant to be honoured, for no other rea<g ref="char:EOLhyphen"/>ſon but becauſe he poſſeſſed the Kingdome: and the ſame was by the heavenly decree that he was ſet in the Throne of the Kingdome, and taken up into Kingly Majeſty, which it was unlawfull to violate. If we have this continually before our mindes and eyes, that even the worſt Kings are ordained by the ſame decree by which the authority of Kings is ſtabliſhed, the ſeditious thoughts ſhall never come into our minde, that a King is to be handled according to his deſervings, and that it is not meet that we ſhould ſhew our ſelves Subjects to him that doth not on his behalfe ſhew himſelfe a King to us.</p>
+            <p>
+               <hi>Sect.</hi> 28. In vaine ſhall any man object that this was a pecu<g ref="char:EOLhyphen"/>liar commandement to the Iſraelites, for it is to be noted with what reaſon the Lord confirmeth it: I have given ſaith he, the Kingdome to <hi>Nebuchadnezzar,</hi> wherefore ſerve yee him and live. To whomſoever therefore it ſhall be certaine that the Kingdome is gi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en, let us not doubt that he is to be obeyed; and ſo ſoone as the Lord advanceth any man to the royall Eſtate, he therein declareth his will to us that he will have him reigne; for thereof are generall teſtimonies of the Scripture. <hi>Solomon</hi> in the 28. Chap. <hi>Many Princes are becauſe of the wickedneſſe of the people.</hi> Againe <hi>Job</hi> in the 12. Chapter, <hi>He taketh away ſubjection from Kings, and girdeth them againe with the girdle.</hi> But this being confeſſed, there remaineth nothing but that we muſt ſerve and live. There is alſo in <hi>Jeremy</hi> the Prophet another commande<g ref="char:EOLhyphen"/>ment of the Lord, wherein he commanded his people to ſeeke the peace of Babylon whither they had been led away captive, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd to pray to him for it, becauſe in the peace of it ſhould bee
+<pb n="13" facs="tcp:111186:10"/>their peace. Behold the Iſraelites being ſpoyled of their goods, plucked out of their houſes, led away into exile, and caſt into miſerable bondage, are commanded to pray for the ſafety of the Conquerer; not as in o her places we are commanded to pray for our perſecuters; but that the Kingdome may be preſerved to himſelfe, and quiet, that they themſelves may live proſpe<g ref="char:EOLhyphen"/>rouſly under him. So <hi>David</hi> being already appointed King by the ordinance of God, and anointed with his holy oyle, when he was without any his deſerving unworthyly perſecuted of <hi>Saul,</hi> yet the head of him that laid wait for his life, he eſteemed holy, which the Lord hath hallowed with the honour of King<g ref="char:EOLhyphen"/>dome: far be it from me, ſaid he, that I ſhould before the Lord doe this thing to my Lord the anointed of the Lord, that I ſhould lay my hand upon him, becauſe he is the anointed of the Lord. Againe, who ſhall lay his hand upon the anointed of the Lord, and ſhall be innocent? So ſure as the Lord liveth, unleſſe the Lord ſtrike him, or his day be come that he dye, or he goe downe into battell; far be it from me that I ſhould lay my hand upon the anointed of the Lord.</p>
+            <p>
+               <hi>Sect.</hi> 29. Finally, we owe this affection of reverence, yea and devotion to all our Rulers, of what ſort ſoever they bee, which I doe therefore the oftner repeat, that we may learn not to ſearch what the men themſelves be, but take this for ſuffici<g ref="char:EOLhyphen"/>ent, that by the will of the Lord they beare that perſonage in which the Lord himſelfe hath imprinted and ingraved an invio<g ref="char:EOLhyphen"/>lable Majeſty. But thou wilt ſay, Rulers owe mutuall dutyes to their Subjects, that I have already confeſſed; but if thou there<g ref="char:EOLhyphen"/>upon conclude, that obediences are to be rendred to none but to juſt Governours, thou art a fooliſh reaſoner: for husbands alſo are bound to their wives, and parents to their children with mutuall duties; let parents and husbands depart from their dutie; let parents ſhew themſelves ſo hard and unpleaſable to their children, whom they are forbidden to provoke to anger, that with their peeviſhneſſe they do unmeaſurably weary them: let the husbands moſt deſpitefully uſe their wives, whom they are commanded to love, &amp; to ſpare them as weak veſſells: ſhall yet therefore either children be diſobedient to their parents, or
+<pb n="14" facs="tcp:111186:11"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ives to their husbands? But they are ſubject both to evill pa<g ref="char:EOLhyphen"/>rents, and husbands, and ſuch as doe not their duty; yea when as all ought rather to endeavour themſelves not to looke behind them to the bag hangi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g on their backe, that is, not to enquire one of anothers duties, but every man ſet before him that which is his owne duty; this ought chiefly to have place among thoſe that are under the power of other: wherefore if we be unmer<g ref="char:EOLhyphen"/>cifully tormented of a cruell Prince, if we be ravenouſly ſpoy<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed of a covetous or riotous Prince, if we be neglected of a ſlothfull Prince: finally, if we be vexed for godlineſſe ſake of a wicked and ungodly Prince; let us firſt call to minde the re<g ref="char:EOLhyphen"/>membrance of our ſinnes, which undoubtedly are chaſtiſed with ſuch ſcourges of the Lord; thereby humility ſhall bridle our impatience: let us then alſo call to minde this thought, that it pertaineth not to us to remedy ſuch evills; but this only is left for us, that we crave the helpe of the Lord, in whoſe hand are the hearts of Kings, and the bowings of Kingdomes: he is the God that ſhall ſtand in the aſſembly of Gods, and ſhall in the midſt judge the gods, from whoſe face all Kings ſhall fall, and be broken, and all the Judges of the earth that ſhall not have kiſſed his anointed, that have written unjuſt lawes to op<g ref="char:EOLhyphen"/>preſſe the poore in judgement, and doe violence to the cauſe of the humble, to make widowes a prey, and rob the fatherleſſe.</p>
+            <p>
+               <hi>Sect.</hi> 30. And here both his marveilous goodneſſe, and po<g ref="char:EOLhyphen"/>wer and providence ſheweth it ſelfe; for ſometime of his ſer<g ref="char:EOLhyphen"/>vants he raiſeth up open revengers, and furniſheth them with his commandement to take vengeance of their unjuſt govern<g ref="char:EOLhyphen"/>ment, and to deliver his people many wayes oppreſſed out of miſerable diſtreſſe; ſometime he directeth to the ſame end the rage of men that extend and goe about another thing: So hee delivered the people of Iſrael out of the tyranny of <hi>Pharaoh</hi> by <hi>Moſes;</hi> and out of the violence <hi>Chuſam</hi> King of Syria by <hi>Otho<g ref="char:EOLhyphen"/>niel;</hi> and out of other thraldomes by other Kings or Judges. So he tamed the pride of <hi>Tyrus</hi> by the Egyptians, the inſolence of the Egyptians by the Aſſyrians, the fierceneſſe of the Aſſyrians by the Chaldees, the boldneſſe of Babylon by the Medians, and by the Perſians when <hi>Cyrus</hi> had ſubdued the Medians: and the
+<pb n="15" facs="tcp:111186:11"/>fulneſſe of the Kings of Judah and Iſrael, and their wicked ob<g ref="char:EOLhyphen"/>ſtinacy towards his ſo many benefits, he did beat downe and bring to diſtreſſe ſometime by the Aſſyrians, ſometime by the Babylonians, albeit not all after one manner; for the firſt ſort of men when they were by the lawfull calling of God ſent to doe ſuch acts, in taking armor againſt Kings, they did not vio<g ref="char:EOLhyphen"/>late that Majeſty which is planted in Kings by the ordinance of God; but being armed from heaven they ſubdued the leſſer po<g ref="char:EOLhyphen"/>wer with the greater; like as it is lawfull for Kings to puniſh their Lords under them: but theſe latter ſort, although they were directed by the hand of God whither it pleaſed him, and they unwittingly did his worke, yet purpoſed in their mindes no<g ref="char:EOLhyphen"/>thing but miſchiefe.</p>
+            <p>
+               <hi>Sect.</hi> 31. But howſoever the very doings of men be judged, yet the Lord did as well execute his work by them, when he did break the bloudy Scepters of proud Kings, and overthrew their intolerable governments. Let Princes hear and be afraid: but we in the meane time muſt take great heed, that we doe not deſ<g ref="char:EOLhyphen"/>piſe or offend that authority of Magiſtrates full of reverend Ma<g ref="char:EOLhyphen"/>jeſty, which God hath ſtabliſhed with moſt weighty decrees, although it remaine with moſt unworthy men, and which doe with their wickedneſſe, ſo much as in them is, defile it: for though the correcting of unbridled government be the revenge<g ref="char:EOLhyphen"/>ment of the Lord, let us not by and by thinke that it is commit<g ref="char:EOLhyphen"/>ted to us, to whom there is given no other commandement but to obey and ſuffer. I ſpeake alway of private men, for if there be at this time any Magiſtrates for the people conſtituted for the moderating of the luſt of Kings, ſuch as in old time were the Ephori, that were ſet againſt the Kings of Lacedemonia, or the Tribunes of the people againſt the Roman Conſuls, or the De<g ref="char:EOLhyphen"/>marchy againſt the Senate of Athens; and the ſame power al<g ref="char:EOLhyphen"/>ſo which peradventure, as things are now, the three Eſtates have in every Realme, when they hold their principall aſſem<g ref="char:EOLhyphen"/>blies, I doe ſo not forbid them according to their office to with<g ref="char:EOLhyphen"/>ſtand the outraging licentiouſneſſe of Kings, that I affirme that if they winke at Kings wilfully raging over and treading down the poore Communalty, their diſſembling is not without wic<g ref="char:EOLhyphen"/>ked
+<pb n="16" facs="tcp:111186:12"/>breach of falth, becauſe they deceitfully betray the liberty of the people, whereof they know themſelves to be appointed pro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ectours or defen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ours by the ordinance of God.</p>
+            <p>This <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſtimony I co<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eive to be as compleat an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> oppoſite as can <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e deſired; only for me<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s perve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ting the l<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ter part of the laſt ci<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed paragraphes from thoſe words; <hi>I ſpeak alway of private men,</hi> &amp;c. to the end of that Sect ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> both the honour of that teſte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> amongſt loyall ſubjects, and the validity of that teſtimony in ſo honourable a cauſe, as tis now produced in: but with Gods aſſiſtance, I truſt I ſhall vindicate both by this can<g ref="char:EOLhyphen"/>did explication of thoſe words, and cleare manifeſtation of their true ſco<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> e and intent.</p>
+            <p>
+               <hi>I ſpeake alway of private men,</hi> ſaies <hi>Calvin,</hi> but in what caſe, and of what private men does he ſpeak? Why in the caſe of Su<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>jects obeying and ſuffering without reſiſting or rebelling, when ungodly and tyrannous Kings or ſovereigne Princes bear rule over them. This is evident from his precedent words. All private men in ſuch a caſe, when ungodly and tyrannous Ru<g ref="char:EOLhyphen"/>lers <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ave the government of them, have no other precept or commandement given to them, but to obey and ſuffer: for though the correcting of unbridled government be the revenge<g ref="char:EOLhyphen"/>ment of the Lord, and he will be ſure to repay; yet he hath not committed it to private men; nay therefore becauſe vengeance is Gods royall Prerogative, men ought not to meddle there<g ref="char:EOLhyphen"/>with. Well, but who are to be accounted private men in this caſe? Why, it appears from the teſtimonies of Scripture before cited, and from ſeverall inſtances before urged by this renown<g ref="char:EOLhyphen"/>ed Author, that in the caſe betwixt Kings and Subjects (or if that te<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me be not large enough) all beſides the King himſelfe, that live within his Dominions, of what ranke or degree ſoever they be, they are in reſpect of their Sovereigne no other then private <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en, and may not reſiſt or rebell againſt him, may not take vengeance or exerciſe correction or coertion upon him, though h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be never ſo wicked and cruell a Prince. This is more expreſly cleared by precepts and examples which are produced Sect. 26, 27, 28. for there you ſhall finde not only ſome particu<g ref="char:EOLhyphen"/>lar men, but whole Tribes and Nations, yea and the Nobles
+<pb n="17" facs="tcp:111186:12"/>and Princes of their Tribes, all and every of them, made and commanded to be ſubject to Kings and Sovereigne Princes. Nay there you ſhall finde demonſtrated from <hi>Dan.</hi> 2. <hi>Jerem.</hi> 27. and <hi>Jerem.</hi> 29. That even Kings of Nations themſelves after they were conquered by another King, were commanded not to rebell againſt him that had conquered them either they or their people, but to ſerve him, and to pray for him and his peo<g ref="char:EOLhyphen"/>ple: and if you pleaſe with thoſe places now cited to admit to audience two other places of the like enforcement, <hi>Ezek.</hi> 17. 2 <hi>Kings</hi> 24. you ſhall there heare the King of Iſrael ſharply re<g ref="char:EOLhyphen"/>proved, terribly threatned, and ſorely puniſhed for revolting from the King of Babylon, after they had been ſubdued by him, and entred into covenant to be his ſervants. So that either <hi>Calvins</hi> ſaying, <hi>I ſpeake alway of private men,</hi> muſt be underſtood either of all men that are or ought to be in ſubjection to any So<g ref="char:EOLhyphen"/>vereigne Princes, as all that live within their territories ought to be of what ranke or degree ſoever they are; or elſe his ſo ſpeaking contradicts not only what himſelfe had ſpoken before, but alſo what God himſelfe had commanded, and he from his mouth delivered.</p>
+            <p>Well, but whom then, does <hi>Calvin</hi> allow to be revengers or correctors of wicked and tyrannous Kings and Princes? Why if you pleaſe to obſerve well the 30. Section, You ſhall there find that he ſpeaks of two ſorts of men that God uſeth for that pur<g ref="char:EOLhyphen"/>poſe. As firſt, God ſomtimes rayſeth up ſome of his ſervants to be open revengers of ſuch Princes, and them he furniſheth with his commandement to take vengeance of their unjuſt govern<g ref="char:EOLhyphen"/>ment, and to deliver his people many wayes oppreſſed out of miſerable diſtreſſe. Againe, ſometimes God directeth to the ſame end the rage of men that intend and goe about another thing. For the firſt ſort of theſe men (ſaith <hi>Calvin</hi>) when they were by the lawfull calling of God (which before he expreſſed by being furniſhed with his commandement) ſent to doe ſuch acts: in taking Armes againſt Kings, they did not violate that Maj<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſty which is planted in Kings by the ordinance of God; but being armed from heaven [that is with the power of his command] they ſubdued the leſſer power with the greater; like
+<pb n="18" facs="tcp:111186:13"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>awfull for Kings to puniſh their great rulers or gover<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them. But the latter ſort, although they were di<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>and of God whither it <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>leaſed him, and unwit<g ref="char:EOLhyphen"/>tingl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and his worke, yet they purpoſed in their mindes nothing but miſchiefe.</p>
+            <p>And now I hope you ſee whom <hi>Calvin</hi> allowes to be corre<g ref="char:EOLhyphen"/>ctors, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r revengers of wicked and tyrannous Princes, <hi>viz.</hi> only thoſe ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rvants of God whom he raiſeth up as open and publick revengers, and furniſheth them with his commandement for that purpoſe. And ſuch indeed are no longer private men, but are now called to a publicke office by God himſelfe, and are in the place of God, being inveſted by him with the power of the ſword, at leaſt for that time, to execute Gods vengeance on thoſe that have abuſed his power, wherewith they were intru<g ref="char:EOLhyphen"/>ſted: but for all other men be they what they will be, if they have been brought into ſubjection, and have entred into a co<g ref="char:EOLhyphen"/>venant with their King, to be his Subjects, they are but private men in reſpect of their King, and if their King be wicked or cruell, &amp;c. they have no authority to correct him or take ven<g ref="char:EOLhyphen"/>geance on him. And therefore <hi>Calvin</hi> ſpeaking of the unlaw<g ref="char:EOLhyphen"/>fulneſſe of reſiſting or rebelling againſt Kings, though never ſo wicked, and concluding that though the correcting of unbridled government be the revengement of the Lord, yet we ſhould not by and by thinke that it is committed to us, to whom ther<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is given no other commandement but to obey and ſuffer, might well adde <hi>de privatis ſemper loquor,</hi> I ſpeake alway of private men.</p>
+            <p>Oh but <hi>Calvin</hi> goes further, and ſuperaddes: For if there be at this time any Magiſtrates on the behalfe of the people con<g ref="char:EOLhyphen"/>ſtituted for the moderating of the luſt of Kings (ſuch as in old time were the Ephori that were ſet againſt the Kings of Lace<g ref="char:EOLhyphen"/>demonia, or the Tribunes of the people againſt the Roman Con<g ref="char:EOLhyphen"/>ſulls, or the Demarchie againſt the Senate of Athens; and the ſame power alſo which peradventure, as things are now, the three eſtates have in every Realme when they hold the princi<g ref="char:EOLhyphen"/>pall Aſſemblies) I doe ſo not forbid them according to their of<g ref="char:EOLhyphen"/>fice to withſtand the outraging licentiouſneſſe of Kings, that
+<pb n="19" facs="tcp:111186:13"/>I affirm that if they winke at Kings wilfully raging over, and treading downe the poore Communalty, their diſſembling is not without wic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed breach of faith, becauſe they deceitfully betray the liberty of the people, whereof they know themſelves to be appointed protectors by the ordinance of God.</p>
+            <p>From hence preſently it is concluded that <hi>Calvin</hi> not onely grants it to be lawfull for Magiſtrates on the behalf of the peo<g ref="char:EOLhyphen"/>ple, and by name Parliaments, to correct and take vengeance of wicked and tyrannous Kings, and Sovereigne Princes, but al<g ref="char:EOLhyphen"/>ſo judgeth them betrayers of the peoples liberty, if they ſhall neglect ſo to doe.</p>
+            <p>Rebells I know, would be glad of ſuch a patron: but I be<g ref="char:EOLhyphen"/>ſeech you, weigh <hi>Calvins</hi> words throughly; and although you will finde that to excuſe the outrage of the Citizens of Gene<g ref="char:EOLhyphen"/>va againſt their Prince, he being admitted publicke reader of Divinity in that City, and publiſhing his Theologicall Inſtituti<g ref="char:EOLhyphen"/>ons, then ſoone after they had changed their government; yet if there can be any ſuch inference juſtly and charitably made as is now pretended, from ought which that honoured Divine hath there ſpoken; let me alſo (which is one of the greateſt curſes my ſoreſt enemy can wiſh me) be reputed a Rebell, for aſcribing ſo much honour to him, who derogates ſo much from the juſt honour and power of Sovereigne Princes.</p>
+            <p>For firſt you ſee that he ſpeakes as doubting whether there are now any ſuch <hi>populare<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Magiſtratus,</hi> any ſuch Magiſtrates on the behalfe of the people, conſtituted for the moderating the luſt of Kings (ſuch as in old time were the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>phori, that were ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t againſt the Lacedemonian Kings, &amp;c.) or not. And well be might make doubt of it; when as, if we examine but the power of the Ephori over the Lacedemonian Kings (and the T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ibunes of the peo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le amongſt the Romanes were in a manner the ſame, ſaith <hi>Lalius, Laet Antiquit. lib.</hi> 18. <hi>cap.</hi> 26.) we ſhall finde it to have been ſuch as it is not to be parallelled (ſo far as ever I could read or heare) by any popular Magiſtrates in any Kingdome whatſoever throughout the world at this preſent, to be ſure not in ours of all others, as in theſe reſpects amongſt many.</p>
+            <pb n="20" facs="tcp:111186:14"/>
+            <p>The Ephori, though they were often choſen out of the low<g ref="char:EOLhyphen"/>eſt and pooreſt ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rt of people, yet they did grow to that height that that power which had been eſtated upon the people, they uſu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ped to themſelves, <hi>Ariſt. Polit.</hi> 2. <hi>cap.</hi> 9.</p>
+            <p>They had the power of waging or ending wars, and their Kings were bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as their Generalls, and at their command either to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dva<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce, or re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e with their Armies.</p>
+            <p>Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y not only cal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed their Kings to an account, but alſo kil<g ref="char:EOLhyphen"/>led and impriſoned them.</p>
+            <p>They allowed their Kings the bare name and title of Kings, but all Regall Rights they tooke to themſelves.</p>
+            <p>They might put any man to death without ſhewing any cauſe. There and divers other particulars, of the power of the Ephori, inconſiſtent, and incompoſſible with the power of Kings, if a<g ref="char:EOLhyphen"/>ny deſire further to be aſſured, he may finde collected to his hand out of <hi>Ze<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ophon, Plato, Ariſtotle, Plutarch,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd others, by <hi>Hen<g ref="char:EOLhyphen"/>ni<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gus Arniſaeus de Republica. lib.</hi> 2. <hi>cap</hi> 6.</p>
+            <p>It ſeems to me a very ſtrange thing, and ſuch as Parliaments themſelves ſhould not well reliſh, that any ſhould compare the power of the three Eſtates, with that uſurped, impious, tyran<g ref="char:EOLhyphen"/>nicall power of the Ephori. And for the Tribunes of the peo<g ref="char:EOLhyphen"/>ple which were ſet againſt the Roman Conſuls, and the De<g ref="char:EOLhyphen"/>marchy which were ſet againſt the Senate of Athens, Me thinks the reſembling of the power of the three eſtates in Parliament to their power, ſhould be as little pleaſing, tis more, then prob<g ref="char:EOLhyphen"/>able. I forbeare to inſtance in the Romane Tribunes, they be<g ref="char:EOLhyphen"/>ing in a manner (as I but now told you from <hi>Calvin</hi>) the ſame with the Lacedemonian Ephori: but for the A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>henian Demar<g ref="char:EOLhyphen"/>chy, I care not much if I afford you a fuller deſcription of them, and their power, together with their managing of it, it being done to my hand by that learned Hiſtorian, and judicious ob<g ref="char:EOLhyphen"/>ſerve of men, Sir <hi>Walter Rawleigh</hi> in his third booke of the Hi<g ref="char:EOLhyphen"/>ſtory of the World, <hi>cap.</hi> 9. <hi>ſect.</hi> 2.3. The thirty Governours commonly called the thi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ty Tyrants of Athens, were choſen at the firſt by the people to compile a body of their Law, and make a collection of ſuch ancient Statutes, as were meet to put in practiſe; the condition of the City ſtanding as it did in that ſo
+<pb n="21" facs="tcp:111186:14"/>ſudden alteration. To this charge was annexed the ſupream Authority, either as a recompence of their labours, or becauſe the neceſſity of the times did ſo require it, wherein the Law be<g ref="char:EOLhyphen"/>ing uncertaine, it was fit that ſuch men ſhould give judgement in particular cauſes, to whoſe judgement the Lawes themſelves by which the City was to be ordered, were become ſu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>j<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct. But theſe thirty having ſo great power in their hands, were more carefull to hold it, then to deſerve it by faithfull execution of that which was committed to their truſt. Therefore apprehen<g ref="char:EOLhyphen"/>ding ſuch troubleſome fellowes, as were odious to the City, though not puniſhable, therefore by law they condemned them to death, which proceeding was by all men approved, who conſidered their lewd conditions, but did not withall bethinke themſelves how eaſie a thing it would be u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>to theſe thirty men to take away the lives of innocents, by calling them perturbers of the peace, or what elſe they liſted, when condemnation without due triall and proofe had been once well allowed. Ha<g ref="char:EOLhyphen"/>ving thus plauſibly entred into a wicked courſe of government, they thought it beſt to fortifie themſelves with a ſure guard, ere they brake out into thoſe diſorders, which they muſt needs com<g ref="char:EOLhyphen"/>mit for the eſtabliſhing of their authority: wherefore diſpat<g ref="char:EOLhyphen"/>ching two of their owne company to Sparta, they informed the Lacedemonians, that it was the full intent of the thirty to keep the City free from all rebellious motions, to which purpoſe it behoved them to cut off ſuch as were ſeditious; and therefore deſired the Lacedemonians to ſend them a garriſon, which they promiſed at their owne coſt to maintaine: this motion was well approved, and a guard ſent, the Captaine of which was ſo well entertained by the thirty, that none of their miſdeeds could want his high commendations at Sparta. Hereupon the Tyrants began to take heart, and looking no more after baſe and dete<g ref="char:EOLhyphen"/>ſted perſons, invaded the principall men of the City, ſending ar<g ref="char:EOLhyphen"/>med men from houſe to houſe, who drew out ſuch as were of great reputation, &amp; likely or able to make any head againſt this wicked forme of government, whereby there was ſuch effuſion of bloud, as to <hi>Theremanes</hi> (one of the thirty) ſeemed very hor<g ref="char:EOLhyphen"/>rible, and unable to eſcape vengeance. His diſlike of their pro<g ref="char:EOLhyphen"/>ceedings
+<pb n="20" facs="tcp:111186:15"/>being openly diſcovered, cauſed his fellows to bethink themſelves, and provide for their owne ſecurity, and his de<g ref="char:EOLhyphen"/>ſtruction, leſt he ſhould make himſelfe a Captaine of the diſcon<g ref="char:EOLhyphen"/>tented (which were almoſt the whole City) and redeeme his owne peace with their ruine: wherefore they ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cted three th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſand of the Citizens, whom they thought meet<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt, and gave unto th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m ſome part of publicke authority, the reſt they di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar<g ref="char:EOLhyphen"/>med. And havi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g thus increaſed their owne ſtrength, and weak<g ref="char:EOLhyphen"/>ned their oppoſites, they began afreſh to ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d the bloud, not on<g ref="char:EOLhyphen"/>ly of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir private enemies, but of ſuch whoſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> money or goods might inrich them, and enable them for the payment of their guard; and to this purpoſe they concluded that every one of them ſhould name one man, upon whoſe goods he ſhould ceaſe putting the owner to death. But when <hi>Theremanes</hi> uttered the deteſtation of ſo wicked intent; then d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d <hi>Critias,</hi> who of all the thirty was moſt tyrannicall, accuſe him to the Councell as a treacherous man, and (whereas one mai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>viledge, the three thouſand was, that none of them ſhould ſuff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r death at the ap<g ref="char:EOLhyphen"/>poi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tment of the Thirty, but have the accuſtomed tryall) hee took upon him to ſtrike off that number the name of <hi>Theremanes,</hi> and ſo reduced him under the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ryall and ſentence of that order. It was well alleadged by <hi>Theremanes,</hi> that his name was not more eaſie to be blotted out of the Catalogue, then any other mans; upon which conſideration he adv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d them all to con<g ref="char:EOLhyphen"/>ceive no otherwiſe of his caſe then they did of their owne, who were more liable to the ſame forme of proceeding; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut every man c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſing rather to pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rve his owne life by ſilence, then preſen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly to draw upon h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mſelfe the danger (which as yet con<g ref="char:EOLhyphen"/>cerned him little, and perhaps would never come neare him) the Tyrants interpreting ſilence as conſent condemned him forth<g ref="char:EOLhyphen"/>with and compelled him to drinke poyſon. After the death of <hi>Theremanes,</hi> the Thirty began to uſe ſuch outrage, as excelled their former villanies: for having three thouſand (as they thought) firme unto them, they robbed all others without ſcare or ſhame, diſpoyling them of lands and goods, and cauſed them to fly into baniſhment for ſafeguard of their lives.</p>
+            <p>He that would read more of thoſe thirty Tyrants, as how
+<pb n="21" facs="tcp:111186:15"/>they ran into the very depth of all miſchiefes, when they had done ſuch as they ſaw there was little hope left them of going backward, as alſo how far the remainder of the three thouſand which had communicated with the tyrannicall faction of the Thirty in their wickedneſſes, did proceed in their barbarous practiſes, and what juſt doome ceaſed upon that whole faction, may at his leaſure, read on where I breake off; but this which I have tranſcribed may ſuffice to have ſhewed how little thanks they are worthy of from Parliaments that urge the practiſe of the Athenian Demarchy for their patern: And indeed (which is the ſecond thing obſervable in thoſe words of <hi>Calvin</hi>) that <hi>Cal<g ref="char:EOLhyphen"/>vin</hi> himſelfe conſidered that ſuch a compariſon or reſemblance of the power of the three eſtates in Parliament to the power of ſuch popular Magiſtrates, conſtituted for the moderating of the luſt of Kings (as the Ephori, Tribunes or Demarchy were, &amp;c.) was either not juſtifiable, or not acceptable or both; and there<g ref="char:EOLhyphen"/>fore he aſcribes to the three Eſtates, they being ſuch popular Magiſtrates, and having ſuch power, only with a peradventure, and as things are now, and doth not ſay poſitively that they have ſuch power, or that the Lawes of thoſe Realmes wherein they are doe give them that power. No had he affirmed it, hee had fouly miſtaken, for tis knowne to every <hi>Soilus</hi> that all the three Eſtates in this Realme (other Realmes I meddle not with) were never accounted <hi>populares Magiſtratus</hi> popular Magiſtrates, or Magiſtrates on the behalfe of the people: neither were they reputed as intruſted with the peoples liberty, only one eſtate of the three, <hi>viz.</hi> the Houſe of Commons hath been, and ſtill is ſo reputed by the moſt, how juſtly is diſputable.</p>
+            <p>Beſides, we of this Realme have lived to ſee one of the three Eſtates that <hi>Calvin</hi> ſpeakes of, <hi>viz.</hi> the Lords Spirituall, quite excluded from having any power at all in our principall Aſſem<g ref="char:EOLhyphen"/>blies; which I am perſwaded, <hi>Calvin</hi> himſelfe, as great an ene<g ref="char:EOLhyphen"/>my as he is rendred to that eſtate, would never have approved, further then by ſubmitting to their power and authority that did it (which all good Subjects are bound unto) had it been only for the perilouſneſſe of the example, whereby others hereafter may perhaps be encouraged to attempt the excluding of one
+<pb n="24" facs="tcp:111186:16"/>Eſtate more from that honourable Court, or for the danger of our Religion it ſelfe, that being more eaſie to be corrupted by P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>piſts, Anabaptiſts, Browniſts, or other Heretickes, through thei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> falſe and ſubtill ſuggeſtions to that honourable Aſſembly, when they, that either are, or ſhould be the moſt able propug<g ref="char:EOLhyphen"/>ners thereof are excluded from that place, where a word ſea<g ref="char:EOLhyphen"/>ſonably ſpoken by them, might be of more force and validity then a thouſand ſpoken afterwards in another place.</p>
+            <p>But take in <hi>Calvins</hi> If, and his Peradventure and all; and let it be ſuppoſed, that there are now ſuch popular Magiſtrates for the moderating of the luſt of Kings, as the very Ephori, or the Dema<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>chy were themſelves in old time; and that the three E<g ref="char:EOLhyphen"/>ſta<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es in thoſe Kingdomes wherein they are eſtabliſhed have the ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me power when they hold their principall Aſſembles; (for that reſtriction muſt not be omitted:) yet what does <hi>Calvin</hi> from thence infer? Only this: I doe ſo not forbid them (ſaith he) according to their office to withſtand, or hinder or come b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tween (his word is <hi>intrudere</hi>) the outraging licentiouſneſſe of Kings; that I affirme that if they winke or connive at Kings <hi>impotenter graſſantibus,</hi> or wildly, wilfully, or outragiouſly trea<g ref="char:EOLhyphen"/>ding downe and inſulting over the poore Communalty, their diſſembling is not without wicked breach of faith, becauſe they dec<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>itfully betray the liberty of the people, whereof they know themſelves to be appointed Tuters, Defenders, or Protectors by the ordinance of God. So that all which <hi>Calvin</hi> alowes any po<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ular Magiſtrates conſtituted for the moderating of the luſt of Kings; if there be any ſuch now in theſe times, and all that by name be attributes to the three Eſtates when they are aſſem<g ref="char:EOLhyphen"/>bled were they ſuch popular Magiſtrates, as they are not, is this and this alone: That when Kings are outragiouſly licentious, ſo that they doe to the poore Communalty even what they pleaſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, treading them down, and inſulting over them, then they ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ht to doe their utmoſt, ſo far as their duty obligeth them, and the Law permits to hinder them from ſo doing, and not to wink at them or diſſem<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le with them; as for ex<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mple: If any King of our owne Kingdom, ſhould outragiouſly and cruelly oppreſſe the Communalty by illegall taxes, and other unjuſt impoſitions
+<pb n="25" facs="tcp:111186:16"/>according to his owne luſt and pleaſure; if when the Houſes of Parliament be convene, they ſhould not according to their duty informe the King of the oppreſſion which the people groane under, and the illegallity thereof, and with all humbleneſſe ad<g ref="char:EOLhyphen"/>viſe him to the contrary, yea and do their u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>moſt by propoun<g ref="char:EOLhyphen"/>ding to him good and wholeſome Lawes, and by uſing all other juſt and lawfull meanes to hinder him from going on in ſuch courſes; but rather either yeeld to the making of ſome Acts for the further ſatisfying of the Kings licentiouſneſſe, or connive at him, and diſſemble with him to the approving of what he had formerly done, they might then indeed be thought to deale per<g ref="char:EOLhyphen"/>fidiouſly, and to betray the liberty of the people, which God even by calling of them to that Aſſembly as Members thereof, ſummoned by his Vicegerents Writ, hath appointed them to maintaine and defend ſo, as is before mentioned. But here is not one word let fall, or one ſyllable whiſpered, that doth in a<g ref="char:EOLhyphen"/>ny wiſe approve correcting, or taking vengeance on ſuch Kings, no nor calling them to an account, much leſſe of taking up Armes againſt them; unleſſe <hi>Calvins</hi> laſt clauſe <hi>[Whereof they know themſelves to be appointed Protecters or Defenders by the Ordi<g ref="char:EOLhyphen"/>nance of God]</hi> be hideouſly perverted, contrary to Gods Ordi<g ref="char:EOLhyphen"/>nance, as inforcing, That becauſe ſome are appointed by God to be Protecters or Defenders of the liberty of the Common-people, therefore they that are ſuch may protect and defend them, by open violence, and force of Armes againſt their So<g ref="char:EOLhyphen"/>vereigne: as though there were no defence of the common peoples liberty to be made, and no other protection to be ſub<g ref="char:EOLhyphen"/>miniſtred but by force of Armes, or other violence. They that are but ſmatterers in our Lawes, are able to cite many caſes wherein Tuters and Guardians are allowed, if not commanded, to maintaine &amp; defend the rights and liberties of thoſe who are under their tuition and protection, and yet may not do either by force and violence, but only in that way and courſe which the Law preſcribes. Nay our laſt ſo much violated and abuſed Pro<g ref="char:EOLhyphen"/>teſtation, wherein we promiſe, vow, and proteſt, every man in particular, to maintaine and defend, with our life, power, and eſtate, the true reformed Proteſtant Religion, &amp;c. with this re<g ref="char:EOLhyphen"/>ſtriction,
+<pb n="26" facs="tcp:111186:17"/>as far as lawfully we may, doe yeeld us this as granted; that the greateſt bond or obligation wherein any man ſtands bound to maintaine and defend another, be it thing or perſon, obligeth him to no other maintenance and defence then is law<g ref="char:EOLhyphen"/>full, &amp; makes not any maintenanc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> &amp; defence to be lawfull, that he that is ſo obliged, either is able, or thinks fit to attempt: And therefore <hi>Calvins</hi> affirming ſome to be protecters or defenders of the peoples liberty, does not give liberty to any to make ſuch defence and protection thereof as they ſhall thinke good, as ſup<g ref="char:EOLhyphen"/>poſe by Armes or other violence; but does only allow that pro<g ref="char:EOLhyphen"/>tection and defence of their liberty to be good, which the Laws of God and man approve to be lawfull.</p>
+            <p>I have been the larger in clearing this latter part of this teſti<g ref="char:EOLhyphen"/>mony, becauſe I am verily perſwaded, that the miſtaking there<g ref="char:EOLhyphen"/>of hath induced divers pious and loyall Proteſtants, with whom this Worthies authority hath been alwayes prevalent to yeeld more in this caſe of defending the liberty of the people againſt the outragious licentiouſneſſe of Kings and ſovereigne Princes then otherwiſe they would have granted.</p>
+            <p>Many other excellent places full of loyalty are to be found in <hi>Calvin;</hi> but I muſt remember what I promiſed in my Epiſtle, or without doubt the poore man will chalenge me for the for<g ref="char:EOLhyphen"/>feiture. I paſſe therefore to the third and laſt teſtimony.</p>
+            <p>MAſter <hi>William Tindal,</hi> a faithfull Miniſter, and conſtant Mar<g ref="char:EOLhyphen"/>tyr of Chriſt, firſt ſtrangled at the ſtake, and then burnt at Filford in Fland<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs, <hi>anno</hi> 1536. A man that for his extraordi<g ref="char:EOLhyphen"/>nary paines in tranſlating the Scripture, eſpecially the new Te<g ref="char:EOLhyphen"/>ſtament into Engliſh (which till then had been concealed, and hid from the people of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his Nation in an unknown tongue) well d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rved the name of the Engliſh Evangeliſt, or (as Mr. <hi>Fox Act. mon. anno</hi> 1536 <hi>p.</hi> 1053. for that and ſome other reaſons ſtiles him) an Apoſtle of England, the moſt honourable title that can be given to a Miniſter of the Goſpel. In his book in<g ref="char:EOLhyphen"/>tituled, The obedience of a Chriſtian man, printed at London 1573. p. 111. having ſpoken briefly of <hi>Davids</hi> carriage towards <hi>Saul,</hi> when God had twice delivered him into his hands, 1 <hi>Sam. c.</hi> 24 <hi>&amp;c.</hi> 26 he thus proceeds:</p>
+            <pb n="27" facs="tcp:111186:17"/>
+            <p>Why did not <hi>David</hi> ſlay <hi>Saul,</hi> ſeeing he was ſo wicked, not in perſecuting <hi>David</hi> only, but in diſobeying Gods Command<g ref="char:EOLhyphen"/>ments, and in tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he had ſl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ine 85. of Gods Prieſts w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ongfully? Verily, for it was not lawfull; for if he had done it, he muſt have ſinned againſt God; for God hath made the King in every Realme Judge over all, and over him there is no Judge: He that judgeth the King, judgeth God, and he that layeth hands on the King, layeth hands on God, and he that reſiſteth th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> King, reſiſteth God, and damneth Gods Law and Ordinance. If the Subjects ſin, they muſt be brought to the Kings judgement, if the King ſin, he muſt be brought unto the judgement, wrath and vengeance of God. And as it is to reſiſt the King, ſo it is to re<g ref="char:EOLhyphen"/>ſiſt his Officer which is ſet or ſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t to execute the Kings com<g ref="char:EOLhyphen"/>mandment: and in the firſt Chapter of the ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cond book of Kings, <hi>David</hi> commanded the young man to be ſl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ine, which b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ought unto him the Crowne and Bracelet of <hi>Saul,</hi> and ſaid, to pleaſe <hi>David</hi> withall, That he himſelfe had ſlaine <hi>Saul:</hi> and in the 4. Chapter of the ſame booke, <hi>David</hi> commanded thoſe two to be ſlaine which brought unto him the head of <hi>Iſhboſheth, Sauls</hi> ſonne, by whoſe meanes yet the whole Kingdome returne un<g ref="char:EOLhyphen"/>to <hi>David</hi> according unto the promiſe of the Lord. And <hi>Luke</hi> 13. when they ſhewed Chriſt of the Galileans, whoſe bloud <hi>P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>late</hi> mingled with their own ſacrifice, He anſwered, <hi>Suppoſe ye, That theſe Galileans were ſinners above all other Galileans, becauſe they ſuffered ſuch puniſhment? I tell you nay, but except ye repent ye ſhall likewiſe periſh.</hi> This was told C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>riſt no doubt of ſuch an intent as they asked him, <hi>Matth.</hi> 22. <hi>Whether it were lawfull to give tri<g ref="char:EOLhyphen"/>bute unto Caeſar?</hi> For they thought it was no ſin to reſiſt an hea<g ref="char:EOLhyphen"/>then Prince, as few of us would think (if we were under the Turke) that it were ſin to riſe againſt him, and to rid our ſelves from under his Dominion, ſo ſore have our Biſhops robbed us of the true Doctrine of Chriſt; but Chriſt condemned their deeds, and alſo the ſecret thoughts of all other that conſented thereun<g ref="char:EOLhyphen"/>to, ſaying, <hi>Except ye repent, ye ſhall likewiſe periſh;</hi> as who ſhould ſay, I know that ye are within your hearts ſuch as they were, outward in their deeds, and are under the ſame damnation, ex<g ref="char:EOLhyphen"/>cept therefore ye repent betimes, ye ſhall break out at the laſt
+<pb n="28" facs="tcp:111186:18"/>into the like deeds, and likewiſe periſh, as it came afterwards to paſſe. Hereby ſeeſt thou that the King is in this world with<g ref="char:EOLhyphen"/>out Law, and may as his luſt doe right, or wrong, and ſhall give accounts but to God only.</p>
+            <p>And page 112. upon theſe words of the Apoſtle, <hi>He is the Mi<g ref="char:EOLhyphen"/>niſter of God to thee for thy good,</hi> Rom. 13. he rendereth it <hi>for thy wealth.</hi> Though the King be the greateſt<g ref="char:punc">▪</g> Tyrant in the world, yet he is unto thee a great benefit of God, and a thing; where<g ref="char:EOLhyphen"/>fore thou oughteſt to thanke God highly, for it is better to have ſomew<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at, then to be cleane ſtript out of altogether, it is better to pay the tenth then to loſe all; it is better to ſuffer one Tyrant then ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, and to ſuffer wrong of one, then of every man.</p>
+            <p>Page 118. Heads and Governours are ordained of God, and are even the gift of God, whether they be good or bad; and whatſoever is done unto as by them, that doth God, be it good or bad. If they be evill, why are they evill? Verily, for our wickedneſſe ſake are they evill, becauſe, that when they were good, we would not receive that goodneſſe of the hand of God, and be thankfull, ſubmitting our ſelves unto his Lawes and Or<g ref="char:EOLhyphen"/>dinances, but abuſed the goodneſſe of God unto our ſenſuall and beaſtly luſts: therefore doth God make his ſcourge of them, and turne them into wilde beaſts, contrary to the nature of their n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mes and offices, even into Lions, Beares, Foxes, and unclean ſwine, to avenge himſelfe of our unnaturall and blinde unkind<g ref="char:EOLhyphen"/>neſſe, and of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t lious diſobedience.</p>
+            <p>This <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſition he proves from ſundry places of Scripture, and then page 119 be makes this exhortative concluſion: <hi>Let us receive all things of God, whether it be good or bad. Let us humble our ſelves under his mighty hand, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ubmit our ſelves unto his nurture and chaſtiſing, and not withdraw our ſelves from his correction.</hi> Read <hi>Heb.</hi> 12. for thy comfort, and let us not take the ſtaffe by the end, or ſeek to avenge our ſelves on his rod, which is the evill Rulers. The childe as long as he ſeeketh to avenge himſelfe upon the rod, hath an evill heart, for he thi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>keth n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t that the correction is right, or that he hath deſerved it, neither repente<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h, but rejoyceth in his wickedneſſe, and ſo long ſhall be never bee without a rod, yea ſo long ſhall the rod be made ſharper; if he
+<pb n="29" facs="tcp:111186:18"/>knowledge his fault, and take the correction meekly, and even kiſſe the rod, and amend himſelfe with the learning and nurture of his father and mother, then is the rod taken away and burnt: So if we reſiſt evill Rulers, ſeeking to ſet our ſelves at liberty, we ſhall no doubt bring our ſelves into more evill bondage, and wrap our ſelves in much more miſery and wretchedneſſe; for if the Heads overcome, then lay they more weight on their backs, and make their yoake ſorer, and tye them ſhorter: if they overcome their evill Rulers, then make they way for a more cruell Nation, or for ſome Tyrant of their own Nation, which hath no right unto the Crown: if we ſubmit our ſelves unto the chaſtiſing of God, and meekly knowledge our ſins, for which we are ſcourged, and kiſſe the rod, and amend our living, then will God take the rod away, that is, he will give the Rulers a better heart, or if they continue their malice, and perſecute you for wel-doing, and becauſe you put your truſt in God, then will God deliver you out of their tyranny for his truths ſake. It is the ſame God now, that was in old time, and delivered the Fathers and the Prophets, the Apoſtles and other holy Saints, and what<g ref="char:EOLhyphen"/>ſoever he ſware to them, he hath ſworne to us, and as he delive<g ref="char:EOLhyphen"/>red them out of all temptations, cumbrance and adverſity, be<g ref="char:EOLhyphen"/>cauſe they conſented and ſubmitted themſelves unto his will, and truſted in his goodneſſe and truth, even ſo will he doe us, if we doe likewiſe. Whenſoever the children of Iſrael fell from the way which God commanded them to walke in, he gave them up under one Tyrant or other: as ſoone as they come to knowledge of themſelves and repented, crying for mercy, and leaning unto the truth of his promiſes, he ſent one to deliver them, as the Hiſtories of the Bible make mention. A Chriſtian man in reſpect of God, is but a paſſive thing, a thing that ſuffe<g ref="char:EOLhyphen"/>reth only, and doth nought, as the ſicke in reſpect of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Chy<g ref="char:EOLhyphen"/>rurgeon, or Phyſitian, doth but ſuffer only: The Chyrurgeon lanceth, and cutteth out the d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad fleſh, ſearcheth the wounds, thruſteth intents ſeareth, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urneth, ſoweth and ſtitcheth, and layeth too corraſives to draw out the corruption, and layeth too healing plaiſters, and maketh it whole: The Phyſitian likewiſe giveth purgations, and drinks to drive our the diſeaſe, and then
+<pb n="30" facs="tcp:111186:19"/>with reſtaurations bringeth health. Now if the ſicke reſiſt the Raſor, the ſearching iron, and ſo forth; doth he not reſiſt his owne health, and is cauſe of his owne death? So likewiſe it i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of us, if we reſ ſt evill Rulers, which are the rod and ſcourge wherewith God chaſtiſeth us, the inſtruments wherewith God ſearcheth our wounds, and bitter drinkes to drive out the ſin, and to make it appeare, and cor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſives to draw ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by the roots the core of the pox of the ſoule that fretteth inward: A Chriſti<g ref="char:EOLhyphen"/>an man therefore receiveth all things at the hand of God, both good and bad, both ſweet and ſowre, both wealth and want.</p>
+            <p>If you pleaſe at your leaſure further to peruſe that excellent worke of that incomparable Worthy, or but that part only of the Obedience of Subjects to Kings, to Princes and Rulers, groun<g ref="char:EOLhyphen"/>ded upon <hi>Rom</hi> 13. you will meet with many other excellent paſ<g ref="char:EOLhyphen"/>ſages to the ſame purpoſe wort<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your obſerving.</p>
+            <p>But paſſe we from that Booke to another of the ſame lear<g ref="char:EOLhyphen"/>ned and religious Author, <hi>viz.</hi> his Expoſition upon <hi>Matth</hi> 5, 6, 7. Chap. and there we ſhall finde the du<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y of Subjects to their ſo<g ref="char:EOLhyphen"/>vereigne Princes ſo ſtated, and the prime objections pretended againſt it, ſo framed and reſolved, as if that holy Man had been not only an <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vangeliſt, or an Apoſtle, as you heard before, but alſo a Prophet, and had foreſeen this preſent Rebellion, and known the very pre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ences all<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>adged for the juſtification there<g ref="char:EOLhyphen"/>of. The words which I refer unto, are thoſe upon Chap 5. ver. 38 39 and more particularly upon the 40. verſe, where the Law is unj<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtly mi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſtred, and the gov<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rnours and J<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dges corrupt, and take <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>es, and be partiall, there be patient and readier to ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r ev<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r as much more, whatſoever unright be done thee, ra<g ref="char:EOLhyphen"/>ther then of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>patiency thou ſhouldeſt avenge thy ſelfe on thy neighbour, or raſh, or make inſu rection againſt the Superiours which God hath ſet over thee, for to riſe againſt them, is to re<g ref="char:EOLhyphen"/>bell againſt God, and againſt thy Father, when he ſcourgeth thee for thine <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffence, and a thouſand times more ſin, then to avenge thee on thy neighbour: and to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ayle on them, is to rayſe on God, as though thou wouldeſt blaſpheme him if he made thee ſicke, poore or of low degree, or otherwiſe then thou wouldeſt be made thy ſelfe. Thou wilt happily ſay, The Sub<g ref="char:EOLhyphen"/>jects
+<pb n="31" facs="tcp:111186:19"/>ever chuſe the Ruler, and make him ſweare to keep their Law, and to maintaine their priviledges and liberties, and upon that ſu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mit themſelves unto him, <hi>ergo,</hi> if he rule amiſſe, they are not bound to obey, but may re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t him, and put him downe againe. I anſwer, your argument is naught, for the husband ſweareth to his wife, yet though he forſweare himſelfe, ſhe hath no power to compell him: alſo though a Maſter keep not co<g ref="char:EOLhyphen"/>venant with his ſervant, or one neighbour with another, yet hath neither ſervant, no nor yet neighbour (though he be under none obedience) power to avange; but the vengeance ever pertaineth to an higher Officer, to whom thou muſt complaine. Yea, but ye will ſay, It is not like, for the whole body of the Subjects chuſe the Ruler; now <hi>cujus eſt ligare, ejus eſt ſolvere, ergo,</hi> if he rule amiſſe, they that ſet him up, may pull him downe againe: I anſwer, God and not the common people chuſeth the Prince, though he chuſe him by them, for Deut. 16. God commandeth to chuſe and ſet up Officers, and therefore is God the chiefe chuſer and ſetter up of them, and ſo muſt he be the chiefe puller down of them againe: now hath God given them no commandment to put them downe againe, but contrary<g ref="char:EOLhyphen"/>wiſe when we have anointed a King over us at his commande<g ref="char:EOLhyphen"/>ment, he ſaith, <hi>Touch not mine Anointed.</hi> And what jeopardy it is to riſe againſt thy Prince, that is anointed over thee, how e<g ref="char:EOLhyphen"/>vill ſo ever he be; ſee the ſtory of King <hi>David,</hi> and throughout all the Bookes of the Kings. The authority of the King, is the authority of God, and all the Subjects compared unto the King, are but Subjects ſtill (though the King be never ſo evill) as a thouſand ſonnes gathered together, are but ſonnes ſtill, and the commandement, Obey your fathers, goeth over all, as well as over one: even ſo goeth the commandement over all the Sub<g ref="char:EOLhyphen"/>jects, Obey your Prince, and the higher power, and he that re<g ref="char:EOLhyphen"/>ſiſteth him, reſiſteth God, and getteth him damnation. And unto your argument, <hi>cujus eſt ligare, ejus eſt ſolver<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>;</hi> I anſwer, He that bindeth with abſolute power, and without any higher authority, his is the might to loſe againe: but he that bindeth at another mans commandement, may not looſe againe without the commandement of the ſame. As they of London chuſe
+<pb n="32" facs="tcp:111186:20"/>them a Major, bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may not put downe againe, how evill ſoever he be, without th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>thori<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y of him, with whoſe licence they choſe him.</p>
+            <p>As long as the powers o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> officers be one under another, if the inferiour doe the wrong, complaine to the higher; but if the higheſt of all d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e the wrong, thou muſt complaine to God only; wherefore the only remedy againſt evill Rulers is, that thou turne thine eye to thy ſelfe, and thine owne ſin, and then l<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ke up to God and ſay: O Father, for our ſin, and the ſin of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r f<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>hers, is this miſery come upon us, we know not thee as <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ther, to obey thee, and walke in thy wayes, and there<g ref="char:EOLhyphen"/>f<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n knoweſt not us as thy ſons to ſet loving School Ma<g ref="char:EOLhyphen"/>ſters over us; we hate thy Law, and therefore haſt thou, through the wickedneſſe of unrighteous Judges, made that Law which was for our defence to be a Tyrant moſt cruell, and to oppreſſe us, and done us injury above all other kindes of violence and robbing, and amend thy living, and be meek and patient, and let them rob as much as they will, yet ſhall <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>od give thee food and rayment, and an honeſt poſſeſſion in the earth to maintaine th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e and thine withall.</p>
+            <p>I will but adde one paſſage more of the ſame Author, to ſhew him to be alwayes the ſame upon any occaſion of mentioning the Subjects duty, and then I thinke ſcarce any ſober J<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dge can require more from one witneſſe. In his Epiſtle to the Chriſtian Reader before his booke intituled, The practice of Papiſticall Prelates, he gives this Exhortation: Unto all Subjects be it ſaid, if they profeſſe the Law of God, and Faith of the Lord Jeſus, and will be Chriſts Diſciples, then let them remember, that there was never man ſo great a Subject as Chriſt was, there was ne<g ref="char:EOLhyphen"/>ver creature that ſuffered ſo great unright ſo patiently, and ſo meekly as he: therefore whatſoever they have beene in times paſt, let them now thinke, that it is their parts to be ſubject in the loweſt kinde of ſubjection, and to ſuffer all things patiently. If the higher powers be cruell unto you with naturall cruelty, then with ſof<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>neſſe and patience, ye ſhall either win them, or mitigate their fierceneſſe. If they joyne them unto the Pope and perſecute you for your faith and hope which ye have in the
+<pb n="33" facs="tcp:111186:20"/>Lord Jeſus, then call to minde, that ye he choſen to ſuffer here with Chriſt, that ye may joy with him in the life to come with joy everlaſting, that ſhall infinitely paſſe this your ſhort paine here. If they command what God forbiddeth, or forbid what God commandeth, then anſwer as the Apoſtles did, <hi>Acts</hi> 5. That God muſt be obe obeyed more then man. If they counſell you to ſuffer unright, then Chriſt ſhall helpe you to beare, and his Spirit ſhall comfort you: but only ſee that they neither pu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you from Gods word, nor yee reſiſt them with bodily violence, but abide patiently a while till the hypocriſie of hypocrites bee ſlaine with the ſword of Gods word, and untill the word be o<g ref="char:EOLhyphen"/>penly publiſhed, and witneſſed unto the powers of the world, that their blindneſſe might be without excuſe. Thus Maſter <hi>Tindal.</hi>
+            </p>
+            <p>And by this, and the other two teſtimonies, I hope you per<g ref="char:EOLhyphen"/>ceive of how far different a ſpirit your new pretended Refor<g ref="char:EOLhyphen"/>mers are from thoſe ancient pious Reformers of the true Pro<g ref="char:EOLhyphen"/>teſtant Religion. They watered what they planted with their owne teares: Theſe deſire to plant in the bloud, and water with the tears of their fellow brethren: Their Arms were their prayers, all the praiers of theſe are for Arms. They abhorred tumults and commotions, as Antichriſtian and Diabolicall: Theſe ſo de<g ref="char:EOLhyphen"/>light in them, as that they deteſt and perſecute as Antichriſtian and malignant all thoſe that will not run the ſame tumultuous and rebellious courſes with them. They following the Doctrine and example of our bleſſed Saviour, and his Apoſtles, both ac<g ref="char:EOLhyphen"/>knowledged, and yeelded all ſubmiſſion and obedience to So<g ref="char:EOLhyphen"/>vereigne Princes, though never ſo wicked and tyrannicall. Theſe following the ſuggeſtions and practiſes of the Divell, and his angells, ſtir up, and foment inſurrection and rebellion againſt their Lord and Sovereigne, though moſt Pious and Gracious. I beſeech you therefore in the words of Saint <hi>John,</hi> 1 Epiſtle, Chap. 4. Verſe 1. Beleeve not every Spirit, but try the Spirits whether they are of God, becauſe many falſe prophets are gone out into the world.</p>
+            <pb n="34" facs="tcp:111186:21"/>
+            <p>Here is a fair way of tryall preſented unto you. Compare the doctrine and practiſes of theſe furious Spirits in theſe times with the Doctrine and Practiſes of thoſe zealous Spirits in for<g ref="char:EOLhyphen"/>mer tines, and ſee and judge which comes neareſt to the Spirit of God and of Chriſt; and beſeech God that that Spirit may poſſeſſe you; which is the prayer as well as the counſell of one that greatly longeth after you all in the bowells of Jeſus Chriſt.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
